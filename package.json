@@ -1,0 +1,16 @@
+{
+  "name": "framework-zephyr-hal-stm32",
+  "version": "0.1.0",
+  "description": "ST STM32 HAL for Zephyr framework",
+  "keywords": [
+    "library",
+    "zephyr",
+    "hal",
+    "stm32",
+    "st"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OS-Q/F01.git"
+  }
+}
