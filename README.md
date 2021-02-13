@@ -1,9 +1,9 @@
-﻿# [zepyhr stm32](https://github.com/OS-Q/F01)
+﻿# [zepyhr stm32](https://github.com/OS-Q/F21A)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-### [简介](https://github.com/OS-Q/F01/wiki)
+### [简介](https://github.com/OS-Q/F21A/wiki)
 
-[F01](https://github.com/OS-Q/F01) 基于[PlatformIO](https://github.com/platformio/platformio-core) 框架
+[F21A](https://github.com/OS-Q/F21A)
 
 ### [Q = (OpenSource & OperatingSystem) ](http://www.OS-Q.com)

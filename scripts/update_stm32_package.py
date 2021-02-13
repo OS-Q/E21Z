@@ -1,13 +1,5 @@
 #!/usr/bin/python
 
-# SPDX-License-Identifier: Apache-2.0
-# Copyright (c) 2019 STMicroelectronics.
-# This script will update the stm32cube module for Zephyr
-# from the latest version on https://github.com/STMicroelectronics
-# get the patch between initial version and latest version
-# apply this patch on the zephyr module
-# usage : 'python update_stm32_package.py <stm32_serie>'
-
 import os
 import sys; sys.dont_write_bytecode = True    # do not generate pyc file
 import subprocess
