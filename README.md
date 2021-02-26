@@ -1,8 +1,8 @@
-﻿# [zepyhr stm32](https://github.com/OS-Q/F21A)
+﻿# [zepyhr stm32](https://github.com/OS-Q/F21Z)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-### [简介](https://github.com/OS-Q/F21A/wiki)
+### [简介](https://github.com/OS-Q/F21Z/wiki)
 
 [F21A](https://github.com/OS-Q/F21A)
 

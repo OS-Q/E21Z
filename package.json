@@ -1,5 +1,5 @@
 {
-  "name": "framework-zephyr-hal-stm32",
+  "name": "zephyr-hal-stm32",
   "version": "0.1.0",
   "description": "ST STM32 HAL for Zephyr framework",
   "keywords": [
@@ -11,6 +11,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/OS-Q/F21A.git"
+    "url": "https://github.com/OS-Q/F21Z.git"
   }
 }
