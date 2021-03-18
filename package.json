@@ -1,5 +1,5 @@
 {
-  "name": "zephyr-hal-stm32",
+  "name": "E21Z",
   "version": "0.1.0",
   "description": "ST STM32 HAL for Zephyr framework",
   "keywords": [
@@ -11,6 +11,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/OS-Q/F21Z.git"
+    "url": "https://github.com/OS-Q/E21Z.git"
   }
 }
